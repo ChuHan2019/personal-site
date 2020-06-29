@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chu Han
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Guangdong Provincial People's Hospital
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep Learning, medical image analysis, computer vision, image processing and computer graphics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Medical Image Analysis
+- Computer Vision
+- Image Processing
+- Computer Graphics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computer Science and Engineering
+    institution: the Chinese University of Hong Kong
+    year: 2019
+  - course: M.Eng. in Computer Science and Engineering
+    institution: South China University of Technology
+    year: 2014
+  - course: B.Sc. in Computer Science and Engineering
+    institution: South China Agricultural University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +46,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:zq1992@gmail.com
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=q08QlVgAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Chu_Han8/research
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +75,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am now a _postdoctoral fellow_ at the _Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences_, under the supervision of Prof. Zaiyi Liu and Prof. Changhong Liang.
+I received the _Ph.D. degree_ from [_the Chinese University of Hong Kong_](https://www.cse.cuhk.edu.hk), under the supervision of [_Prof. Tien-Tsin Wong_](http://www.cse.cuhk.edu.hk/~ttwong). 
+I received the _M.Sc. degree_ in computer science from [_South China University of Technology_](https://www.scut.edu.cn/en/), and the _B.Sc. degree_ from [_South China Agricultural University_](http://english.scau.edu.cn/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current research interests include medical image analysis, computer graphics, image processing, computer vision and deep learning.
+
+I like travelling and shooting landscape photographs. Here I share my [photos](#gallery) with you. Join me if you are also an adventurer.
