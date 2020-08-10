@@ -29,9 +29,16 @@ _# indicates joint first author, * indicates corresponding author._
 
 ### -------------------------------------------------------- 2020 --------------------------------------------------------
 
-### [**TENet: Triple Excitation Network for Video Salient Object Detection**]()
+### [**Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks**]()
+Yangyang Xu<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Jing Qin, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Shengfeng He<sup>\*</sup>\
+**IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, 2020, to appear.
+
+### [**TENet: Triple Excitation Network for Video Salient Object Detection**](./publication/su-2020-tenet)
 Sucheng Ren, **Chu Han**, Xin Yang, Guoqiang Han, Shengfeng He<sup>\*</sup>\
-Accepted by **European Conference on Computer Vision (spotlight paper)**, 2020, to appear.
+**European Conference on Computer Vision (spotlight paper, top 5\%)**, 2020.\
+[[PDF]](/publication/su-2020-tenet/su-2020-tenet.pdf)
+[[Cite]](/publication/su-2020-tenet/cite.bib)
+[[Code]](https://github.com/OliverRensu/TENet-Triple-Excitation-Network-for-Video-Salient-Object-Detection)
 
 ### [**Triple U-net: Hematoxylin-aware Nuclei Segmentation with Progressive Dense Feature Aggregation**](./publication/zhao-2020-nuclei)
 Bingchao Zhao<sup>\#</sup>, Xin Chen<sup>\#</sup>, Zhi Li<sup>\#</sup>, Zhiwen Yu<sup>\#</sup>, Su Yao, Lixu Yan, Yuqian Wang, Zaiyi Liu<sup>\*</sup>, Changhong Liang<sup>\*</sup>, **Chu Han<sup>\*</sup>**\
