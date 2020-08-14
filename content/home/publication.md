@@ -29,7 +29,16 @@ _# indicates joint first author, * indicates corresponding author._
 
 ### -------------------------------------------------------- 2020 --------------------------------------------------------
 
-### [**Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks**]()
+<!-- ###[**Fast Scene Labeling via Structural Inference**]
+Huaidong Zhang, **Chu Han**, Xiaodan Zhang, Yong Du, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Jing Qin, Shengfeng He<sup>\*</sup>\
+**Neurocomputing**, 2020, to appear. 
+-->
+
+### [**Learning a Consensus Affinity Matrix for Multi-view Clustering via Subspaces Merging on Grassmann Manifold**]()
+Wentao Rong, Enhong Zhuo, Hong Peng, Jiazhou Chen, Haiyan Wang, **Chu Han**, Hongmin Cai<sup>\*</sup>\
+**Information Sciences**, 2020, to appear.
+
+### [**Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks**](./publication/xu-2020-action)
 Yangyang Xu<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Jing Qin, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Shengfeng He<sup>\*</sup>\
 **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, 2020, to appear.
 

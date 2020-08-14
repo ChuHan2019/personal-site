@@ -1,9 +1,9 @@
 ---
 title: "TENet: Triple Excitation Network for Video Salient Object Detection"
-date: 2020-09-03
+date: 2020-08-03
 authors: 
-- Shucheng Ren#
-- Chu Han#
+- Shucheng Ren
+- Chu Han
 - Xin Yang
 - Guoqiang Han
 - Shengfeng He*
@@ -12,8 +12,6 @@ abstract: ""
 featured: true
 publication: "*European Conference on Computer Vision (spotlight paper)*"
 
-doi: ""
-
 url_code: 'https://github.com/OliverRensu/TENet-Triple-Excitation-Network-for-Video-Salient-Object-Detection'
 url_dataset: ''
 url_poster: ''
@@ -21,6 +19,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
 ---
-
