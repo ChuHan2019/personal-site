@@ -29,18 +29,35 @@ _# indicates joint first author, * indicates corresponding author._
 
 ### -------------------------------------------------------- 2020 --------------------------------------------------------
 
-<!-- ###[**Fast Scene Labeling via Structural Inference**]
+<!--
+### [**Tensor-based Low-rank and Graph Regularized Representation Learning for Multi-view Clustering**]()
+Haiyan Wang, Guoqiang Han, Bin Zhang, Yu Hu, Hong Peng, **Chu Han**, Hongmin Cai<sup>\*</sup>\
+**IEEE International Conference on Bioinformatics and Biomedicine**, 2020, to appear.
+-->
+
+<!--
+### [**Fast Scene Labeling via Structural Inference**]
 Huaidong Zhang, **Chu Han**, Xiaodan Zhang, Yong Du, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Jing Qin, Shengfeng He<sup>\*</sup>\
 **Neurocomputing**, 2020, to appear. 
 -->
 
+### [**CNN-Based Fully Automatic Glioma Classification with Multi-modal Medical Images**]()
+Bingchao Zhao, Jia Huang, Changhong Liang, Zaiyi Liu and **Chu Han**<sup>\*</sup>\
+**MICCAI 2020 Brain Tumor Workshop**, 2020, to appear.
+
 ### [**Learning a Consensus Affinity Matrix for Multi-view Clustering via Subspaces Merging on Grassmann Manifold**]()
 Wentao Rong, Enhong Zhuo, Hong Peng, Jiazhou Chen, Haiyan Wang, **Chu Han**, Hongmin Cai<sup>\*</sup>\
-**Information Sciences**, 2020, to appear.
+**Information Sciences**, 2020.\
+[[DOI]](https://doi.org/10.1016/j.ins.2020.07.059)
+[[Cite]](./publication/Rong-2020-IS/cite.bib)
 
 ### [**Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks**](./publication/xu-2020-action)
 Yangyang Xu<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Jing Qin, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Shengfeng He<sup>\*</sup>\
-**IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, 2020, to appear.
+**IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.\
+[[DOI]](https://doi.org/10.1109/TNNLS.2020.3015848)
+[[PDF]](/publication/xu-2020-action/xu-2020-action.pdf)
+[[Cite]](/publication/xu-2020-action/cite.bib)
+
 
 ### [**TENet: Triple Excitation Network for Video Salient Object Detection**](./publication/su-2020-tenet)
 Sucheng Ren, **Chu Han**, Xin Yang, Guoqiang Han, Shengfeng He<sup>\*</sup>\
@@ -58,7 +75,8 @@ Bingchao Zhao<sup>\#</sup>, Xin Chen<sup>\#</sup>, Zhi Li<sup>\#</sup>, Zhiwen Y
 
 ### [**Coherence and Identity Learning for Arbitrary-length Face Video Generation**]()
 Shuquan Ye, **Chu Han**, Jiaying Lin, Guoqiang Han, Shengfeng He<sup>\*</sup>\
-Accepted by **International Conference on Pattern Recognition**, 2020, to appear.
+Accepted by **International Conference on Pattern Recognition**, 2020.\
+[[PDF]](/publication/Ye-2020-facevideo/Ye-2020-facevideo.pdf)
 
 ### [**Video Snapshot Single Image Motion Expansion via Invertible Motion Embedding**](./publication/zhu-2020-videosnapshot)
 Qianshu Zhu<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Guoqiang Han, Tien-Tsin Wong, Shengfeng He<sup>\*</sup>\
