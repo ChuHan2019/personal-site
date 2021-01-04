@@ -26,24 +26,21 @@ subtitle = ""
 
 _# indicates joint first author, * indicates corresponding author._
 
-
-### -------------------------------------------------------- 2020 --------------------------------------------------------
-
-<!--
-### [**Tensor-based Low-rank and Graph Regularized Representation Learning for Multi-view Clustering**]()
-Haiyan Wang, Guoqiang Han, Bin Zhang, Yu Hu, Hong Peng, **Chu Han**, Hongmin Cai<sup>\*</sup>\
-**IEEE International Conference on Bioinformatics and Biomedicine**, 2020, to appear.
--->
-
-<!--
-### [**Fast Scene Labeling via Structural Inference**]
-Huaidong Zhang, **Chu Han**, Xiaodan Zhang, Yong Du, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Jing Qin, Shengfeng He<sup>\*</sup>\
-**Neurocomputing**, 2020, to appear. 
--->
+### -------------------------------------------------------- 2021 --------------------------------------------------------
 
 ### [**CNN-Based Fully Automatic Glioma Classification with Multi-modal Medical Images**]()
 Bingchao Zhao, Jia Huang, Changhong Liang, Zaiyi Liu and **Chu Han**<sup>\*</sup>\
-**MICCAI 2020 Brain Tumor Workshop**, 2020, to appear.
+**MICCAI 2020 Brain Tumor Workshop**, 2021, to appear.
+
+### [**Fast Scene Labeling via Structural Inference**]()
+Huaidong Zhang, **Chu Han**, Xiaodan Zhang, Yong Du, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Jing Qin, Shengfeng He<sup>\*</sup>\
+**Neurocomputing**, 2020, to appear. 
+
+### [**Tensor-based Low-rank and Graph Regularized Representation Learning for Multi-view Clustering**]()
+Haiyan Wang, Guoqiang Han, Bin Zhang, Yu Hu, Hong Peng, **Chu Han**, Hongmin Cai<sup>\*</sup>\
+**IEEE International Conference on Bioinformatics and Biomedicine**, 2021, to appear.
+
+### -------------------------------------------------------- 2020 --------------------------------------------------------
 
 ### [**Learning a Consensus Affinity Matrix for Multi-view Clustering via Subspaces Merging on Grassmann Manifold**]()
 Wentao Rong, Enhong Zhuo, Hong Peng, Jiazhou Chen, Haiyan Wang, **Chu Han**, Hongmin Cai<sup>\*</sup>\
