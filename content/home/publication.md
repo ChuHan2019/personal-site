@@ -92,7 +92,7 @@ Dongjiu Zhang, Chuhua Xian<sup>\*</sup>, Guoliang Luo, Yunhui Xiong, **Chu Han**
 ### -------------------------------------------------------- 2019 --------------------------------------------------------
 
 ### [**Exploring Duality in Visual Questions Driven Top-Down Saliency**](./publication/he-2019-exploring)
-Shengfeng He, **Chu Han<sup>\*</sup>**, Linchao Bao, Guoqiang Han, Jing Qin\
+Shengfeng He, **Chu Han<sup>\*</sup>**, Guoqiang Han, Jing Qin\
 **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, 2019\
 [[DOI]](https://doi.org/10.1109/TNNLS.2019.2933439)
 [[PDF]](/publication/he-2019-exploring/he-2019-exploring.pdf)

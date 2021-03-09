@@ -5,7 +5,6 @@ publishDate: 2020-06-10T04:03:36.287328Z
 authors:
 - Shengfeng He
 - Chu Han*
-- Linchao Bao
 - Guoqiang Han
 - Jing Qin
 publication_types: ["2"]
