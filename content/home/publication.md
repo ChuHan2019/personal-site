@@ -28,17 +28,37 @@ _# indicates joint first author, * indicates corresponding author._
 
 ### -------------------------------------------------------- 2021 --------------------------------------------------------
 
-### [**CNN-Based Fully Automatic Glioma Classification with Multi-modal Medical Images**]()
+### [**CNN-Based Fully Automatic Glioma Classification with Multi-modal Medical Images**](./publication/zhao-2021-glioma)
 Bingchao Zhao, Jia Huang, Changhong Liang, Zaiyi Liu and **Chu Han**<sup>\*</sup>\
-**MICCAI 2020 Brain Tumor Workshop**, 2021, to appear.
+**Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries. BrainLes 2020**, 2021.\
+[[DOI]](https://doi.org/10.1007/978-3-030-72087-2_44)
+[[PDF]](/publication/zhao-2021-glioma/zhao-2021-glioma.pdf)
+[[Cite]](/publication/zhao-2021-glioma/cite.bib)
+
+### [**Color correction and adaptive contrast enhancement for underwater image enhancement**]()
+Weidong Zhang, Xipeng Pan<sup>\*</sup>, Xiwang Xie, Lingqiao Li, Zimin Wang, **Chu Han**<sup>\*</sup>\
+**Computers & Electrical Engineering**, 2021.\
+[[DOI]](https://doi.org/10.1016/j.compeleceng.2021.106981)
+
+### [**Combining quantitative and qualitative magnetic resonance imaging features to differentiate anorectal malignant melanoma from low rectal cancer**]()
+Zeyan Xu, Ke Zhao, Lujun Han, Pinxiong Li, Zhenwei Shi, Xiaomei Huang, **Chu Han**, Huihui Wang, Minglei Chen, Chen Liu, Yanting Liang, Suyun Li, Yanqi Huang, Xin Chen, Changhong Liang, Wuteng Cao<sup>\*</sup>, Zaiyi Liu<sup>\*</sup>\
+**Precision Clinical Medicine**, 2021.\
+[[DOI]](https://doi.org/10.1093/pcmedi/pbab011)
+
+### [**Development and validation of a CT-based radiomics nomogram for preoperative prediction of tumor histologic grade in gastric adenocarcinoma**]()
+Jia Huang<sup>\#</sup>, Huasheng Yao<sup>\#</sup>, Yexing Li, Mengyi Dong, **Chu Han**, Lan He, Xiaomei Huang, Ting Xia, Zongjian Yi, Huihui Wang, Yuan Zhang, Jian He, Changhong Liang, Zaiyi Liu<sup>\*</sup>\
+**Chinese Journal of Cancer Research**, 2021.\
+[[DOI]](https://doi.org/10.21147/j.issn.1000-9604.2021.01.08)
 
 ### [**Fast Scene Labeling via Structural Inference**]()
 Huaidong Zhang, **Chu Han**, Xiaodan Zhang, Yong Du, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Jing Qin, Shengfeng He<sup>\*</sup>\
-**Neurocomputing**, 2020, to appear. 
+**Neurocomputing**, 2021.\
+[[DOI]](https://doi.org/10.1016/j.neucom.2020.12.134)
 
 ### [**Tensor-based Low-rank and Graph Regularized Representation Learning for Multi-view Clustering**]()
 Haiyan Wang, Guoqiang Han, Bin Zhang, Yu Hu, Hong Peng, **Chu Han**, Hongmin Cai<sup>\*</sup>\
-**IEEE International Conference on Bioinformatics and Biomedicine**, 2021, to appear.
+**IEEE International Conference on Bioinformatics and Biomedicine**, 2021.\
+[[DOI]](https://doi.org/10.1109/BIBM49941.2020.9313273)
 
 ### -------------------------------------------------------- 2020 --------------------------------------------------------
 
