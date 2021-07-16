@@ -28,6 +28,13 @@ _# indicates joint first author, * indicates corresponding author._
 
 ### -------------------------------------------------------- 2021 --------------------------------------------------------
 
+### [**Fusion of Multi-source Retinal Fundus Images via Automatic Registration for Clinical Diagnosis**]()
+Tingting Dan, Yu Hu, **Chu Han**, Zhihao Fan, Zhuobin Huang, Bin Zhang, Guihua Tao, Baoyi Liu, Honghua Yu<sup>\*</sup>, Hongmin Cai<sup>\*</sup>\
+**Neurocomputing**, 2021.\
+[[DOI]](https://doi.org/10.1016/j.neucom.2021.05.091)
+[[PDF]](/publication/dan-2021-fundus/dan-2021-fundus.pdf)
+[[Cite]](/publication/dan-2021-fundus/cite.bib)
+
 ### [**CNN-Based Fully Automatic Glioma Classification with Multi-modal Medical Images**](./publication/zhao-2021-glioma)
 Bingchao Zhao, Jia Huang, Changhong Liang, Zaiyi Liu and **Chu Han**<sup>\*</sup>\
 **Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries. BrainLes 2020**, 2021.\
