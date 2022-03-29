@@ -26,6 +26,15 @@ subtitle = ""
 
 _# indicates joint first author, * indicates corresponding author._
 
+### -------------------------------------------------------- 2022 --------------------------------------------------------
+### [**PDBL: Improving Histopathological Tissue Classification With Plug-and-Play Pyramidal Deep-Broad Learning**](./publication/lin-2022-pdbl)
+Jiatai Lin, Guoqiang Han, Xipeng Pan, Zaiyi Liu, Hao Chen, Danyi Li, Xiping Jia, Zhenwei Shi, Zhizhen Wang, Yanfen Cui, Haiming Li, Changhong Liang, Li Liang<sup>\*</sup>, Ying Wang<sup>\*</sup>, **Chu Han**<sup>\*</sup>\
+**Transactions on Medical Imaging**, 2022.\
+[[DOI]](https://doi.org/10.1109/tmi.2022.3161787)
+[[PDF]](/publication/lin-2022-pdbl/lin2022PDBL.pdf)
+[[Cite]](/publication/lin-2022-pdbl/cite.bib)
+
+
 ### -------------------------------------------------------- 2021 --------------------------------------------------------
 
 ### [**Fusion of Multi-source Retinal Fundus Images via Automatic Registration for Clinical Diagnosis**]()
