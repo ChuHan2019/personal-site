@@ -55,11 +55,16 @@ Jiatai Lin, Guoqiang Han, Xipeng Pan, Zaiyi Liu, Hao Chen, Danyi Li, Xiping Jia,
 [[DOI]](https://arxiv.org/abs/2204.06455)
 [[Cite]](/publication/han-2022-challenge/cite.bib)
 
-### [**HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images**]()
+### [**HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images**](./publication/mo-2022-hovertrans)
 Yuhao Mo<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Yu Liu<sup>\#</sup>, Min Liu<sup>\#</sup>, Zhenwei Shi, Jiatai Lin, Bingchao Zhao, Chunwang Huang, Bingjiang Qiu, Yanfen Cui, Lei Wu, Xipeng Pan, Zeyan Xu, Xiaomei Huang, Zaiyi Liu, Ying Wang, Changhong Liang\
 **preprint, arXiv**, 2022\
 [[DOI]](https://arxiv.org/abs/2205.08390)
 [[Cite]](/publication/mo-2022-hovertrans/cite.bib)
+
+### [**SeqSeg: A sequential method to achieve nasopharyngeal carcinoma segmentation free from background dominance**]()
+Guihua Tao, Haojiang Li, Jiabin Huang, **Chu Han**, Jiazhou Chen, Guangying Ruan, Wenjie Huang, Yu Hu, Tingting Dan, Bin Zhang, Shengfeng He, Lizhi Liu, Hongmin Cai\
+**Medical Image Analysis**, 2022\
+[[DOI]](https://doi.org/10.1016/j.media.2022.102381)
 
 
 ### -------------------------------------------------------- 2021 --------------------------------------------------------

@@ -1,8 +1,7 @@
 ---
 title: "Meta Multi-task Nuclei Segmentation with Fewer Training Samples"
 date: 2022-05-20
-publishDate: 2022-05-20T04:03:36.287328Z
-authors:
+authors: 
 - Chu Han*
 - Huasheng Yao
 - Bingchao Zhao
