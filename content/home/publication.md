@@ -27,12 +27,39 @@ subtitle = ""
 _# indicates joint first author, * indicates corresponding author._
 
 ### -------------------------------------------------------- 2022 --------------------------------------------------------
+
+### [**Meta Multi-task Nuclei Segmentation with Fewer Training Samples**](./publication/han-2022-metaMTL)
+**Chu Han**, Huasheng Yao, Bingchao Zhao, Zhenhui Li, Zhenwei Shi, Lei Wu, Xin Chen, Jinrong Qu, Ke Zhao, Rushi Lan, Changhong Liang, Xipeng Pan, Zaiyi Liu\
+**Medical Image Analysis**, 2022\
+[[DOI]](https://doi.org/10.1016/j.media.2022.102481)
+[[Cite]](/publication/han-2022-metaMTL/cite.bib)
+[[Code]](https://github.com/ChuHan89/Meta-MTL4NucleiSegmentation)
+
+### [**Multi-Layer Pseudo-Supervision for Histopathology Tissue Semantic Segmentation using Patch-level Classification Labels**](./publication/han-2022-WSSS)
+**Chu Han**, Jiatai Lin, Jinhai Mai, Yi Wang, Qingling Zhang, Bingchao Zhao, Xin Chen, Xipeng Pan, Zhenwei Shi, Zeyan Xu, Su Yao, Lixu Yan, Huan Lin, Xiaomei Huang, Changhong Liang, Guoqiang Han, Zaiyi Liu\
+**Medical Image Analysis**, 2022\
+[[DOI]](https://doi.org/10.1016/j.media.2022.102487)
+[[Cite]](/publication/han-2022-WSSS/cite.bib)
+[[Code&Dataset]](https://github.com/ChuHan89/WSSS-Tissue)
+
 ### [**PDBL: Improving Histopathological Tissue Classification With Plug-and-Play Pyramidal Deep-Broad Learning**](./publication/lin-2022-pdbl)
 Jiatai Lin, Guoqiang Han, Xipeng Pan, Zaiyi Liu, Hao Chen, Danyi Li, Xiping Jia, Zhenwei Shi, Zhizhen Wang, Yanfen Cui, Haiming Li, Changhong Liang, Li Liang<sup>\*</sup>, Ying Wang<sup>\*</sup>, **Chu Han**<sup>\*</sup>\
 **Transactions on Medical Imaging**, 2022.\
 [[DOI]](https://doi.org/10.1109/tmi.2022.3161787)
 [[PDF]](/publication/lin-2022-pdbl/lin2022PDBL.pdf)
 [[Cite]](/publication/lin-2022-pdbl/cite.bib)
+
+### [**WSSS4LUAD: Grand Challenge on Weakly-supervised Tissue Semantic Segmentation for Lung Adenocarcinoma**](./publication/han-2022-challenge)
+**Chu Han**, Xipeng Pan, Lixu Yan, Huan Lin, Bingbing Li, Su Yao, Shanshan Lv, Zhenwei Shi, Jinhai Mai, Jiatai Lin, Bingchao Zhao, Zeyan Xu, Zhizhen Wang, Yumeng Wang, Yuan Zhang, Huihui Wang, Chao Zhu, Ting Xia, Chunhui Lin, Lijian Mao, Min Wu, Luwen Duan, Jingsong Zhu, Dong Hu, Zijie Fang, Yang Chen, Yongbing Zhang, Yi Li, Yiwen Zou, Yiduo Yu, Xiaomeng Li, Haiming Li, Yanfen Cui, Guoqiang Han, Yan Xu, Jun Xu, Huihua Yang, Chunming Li, Zhenbing Liu, Cheng Lu, Xin Chen, Changhong Liang, Qingling Zhang, Zaiyi Liu\
+**preprint, arXiv**, 2022\
+[[DOI]](https://arxiv.org/abs/2204.06455)
+[[Cite]](/publication/han-2022-challenge/cite.bib)
+
+### [**HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images**]()
+Yuhao Mo<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Yu Liu<sup>\#</sup>, Min Liu<sup>\#</sup>, Zhenwei Shi, Jiatai Lin, Bingchao Zhao, Chunwang Huang, Bingjiang Qiu, Yanfen Cui, Lei Wu, Xipeng Pan, Zeyan Xu, Xiaomei Huang, Zaiyi Liu, Ying Wang, Changhong Liang\
+**preprint, arXiv**, 2022\
+[[DOI]](https://arxiv.org/abs/2205.08390)
+[[Cite]](/publication/mo-2022-hovertrans/cite.bib)
 
 
 ### -------------------------------------------------------- 2021 --------------------------------------------------------
