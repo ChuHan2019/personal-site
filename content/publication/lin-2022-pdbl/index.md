@@ -21,7 +21,7 @@ authors:
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*Transactions on Medical Imaging*"
+publication: "*IEEE Transactions on Medical Imaging*"
 
 url_code: 'https://github.com/linjiatai/PDBL'
 url_dataset: ''

@@ -25,26 +25,41 @@ subtitle = ""
 +++
 
 _# indicates joint first author, * indicates corresponding author._
+### -------------------------------------------------------- 2023 --------------------------------------------------------
+
+### [**CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation**](./publication/lin-2023-ckdtransbts)
+Jianwei Lin, Jiatai Lin, Cheng Lu, Hao Chen, Huan Lin, Bingchao Zhao, Zhenwei Shi, Bingjiang Qiu, Xipeng Pan, Zeyan Xu, Biao Huang, Changhong Liang, Guoqiang Han<sup>\*</sup>, Zaiyi Liu<sup>\*</sup>, **Chu Han**<sup>\*</sup>\
+**IEEE Transactions on Medical Imaging**, 2023.\
+[[DOI]](https://doi.org/10.1109/TMI.2023.3250474)
+[[Cite]](/publication/lin-2023-ckdtransbts/cite.bib)
+[[Code]](https://github.com/sword98/CKD-TransBTS)
+
+### [**HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images**](./publication/mo-2023-hovertrans)
+Yuhao Mo<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Yu Liu<sup>\#</sup>, Min Liu<sup>\#</sup>, Zhenwei Shi, Jiatai Lin, Bingchao Zhao, Chunwang Huang, Bingjiang Qiu, Yanfen Cui, Lei Wu, Xipeng Pan, Zeyan Xu, Xiaomei Huang, Zaiyi Liu, Ying Wang, Changhong Liang\
+**IEEE Transactions on Medical Imaging**, 2023.\
+[[DOI]](https://doi.org/10.1109/TMI.2023.3236011)
+[[Cite]](/publication/mo-2023-hovertrans/cite.bib)
+[[Code&Dataset]](https://github.com/yuhaomo/HoVerTrans)
 
 ### -------------------------------------------------------- 2022 --------------------------------------------------------
 
-### [**Meta Multi-task Nuclei Segmentation with Fewer Training Samples**](./publication/han-2022-metaMTL)
-**Chu Han**, Huasheng Yao, Bingchao Zhao, Zhenhui Li, Zhenwei Shi, Lei Wu, Xin Chen, Jinrong Qu, Ke Zhao, Rushi Lan, Changhong Liang, Xipeng Pan, Zaiyi Liu\
-**Medical Image Analysis**, 2022\
-[[DOI]](https://doi.org/10.1016/j.media.2022.102481)
-[[Cite]](/publication/han-2022-metaMTL/cite.bib)
-[[Code]](https://github.com/ChuHan89/Meta-MTL4NucleiSegmentation)
-
-### [**Multi-Layer Pseudo-Supervision for Histopathology Tissue Semantic Segmentation using Patch-level Classification Labels**](./publication/han-2022-WSSS)
+### [**Multi-Layer Pseudo-Supervision for Histopathology Tissue Semantic Segmentation using Patch-level Classification Labels**](./publication/han-2022-wsss)
 **Chu Han**, Jiatai Lin, Jinhai Mai, Yi Wang, Qingling Zhang, Bingchao Zhao, Xin Chen, Xipeng Pan, Zhenwei Shi, Zeyan Xu, Su Yao, Lixu Yan, Huan Lin, Xiaomei Huang, Changhong Liang, Guoqiang Han, Zaiyi Liu\
 **Medical Image Analysis**, 2022\
 [[DOI]](https://doi.org/10.1016/j.media.2022.102487)
-[[Cite]](/publication/han-2022-WSSS/cite.bib)
+[[Cite]](/publication/han-2022-wsss/cite.bib)
 [[Code&Dataset]](https://github.com/ChuHan89/WSSS-Tissue)
+
+### [**Meta Multi-task Nuclei Segmentation with Fewer Training Samples**](./publication/han-2022-metamtl)
+**Chu Han**, Huasheng Yao, Bingchao Zhao, Zhenhui Li, Zhenwei Shi, Lei Wu, Xin Chen, Jinrong Qu, Ke Zhao, Rushi Lan, Changhong Liang, Xipeng Pan, Zaiyi Liu\
+**Medical Image Analysis**, 2022\
+[[DOI]](https://doi.org/10.1016/j.media.2022.102481)
+[[Cite]](/publication/han-2022-metamtl/cite.bib)
+[[Code]](https://github.com/ChuHan89/Meta-MTL4NucleiSegmentation)
 
 ### [**PDBL: Improving Histopathological Tissue Classification With Plug-and-Play Pyramidal Deep-Broad Learning**](./publication/lin-2022-pdbl)
 Jiatai Lin, Guoqiang Han, Xipeng Pan, Zaiyi Liu, Hao Chen, Danyi Li, Xiping Jia, Zhenwei Shi, Zhizhen Wang, Yanfen Cui, Haiming Li, Changhong Liang, Li Liang<sup>\*</sup>, Ying Wang<sup>\*</sup>, **Chu Han**<sup>\*</sup>\
-**Transactions on Medical Imaging**, 2022.\
+**IEEE Transactions on Medical Imaging**, 2022.\
 [[DOI]](https://doi.org/10.1109/tmi.2022.3161787)
 [[PDF]](/publication/lin-2022-pdbl/lin2022PDBL.pdf)
 [[Cite]](/publication/lin-2022-pdbl/cite.bib)
@@ -55,11 +70,21 @@ Jiatai Lin, Guoqiang Han, Xipeng Pan, Zaiyi Liu, Hao Chen, Danyi Li, Xiping Jia,
 [[DOI]](https://arxiv.org/abs/2204.06455)
 [[Cite]](/publication/han-2022-challenge/cite.bib)
 
-### [**HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images**](./publication/mo-2022-hovertrans)
-Yuhao Mo<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Yu Liu<sup>\#</sup>, Min Liu<sup>\#</sup>, Zhenwei Shi, Jiatai Lin, Bingchao Zhao, Chunwang Huang, Bingjiang Qiu, Yanfen Cui, Lei Wu, Xipeng Pan, Zeyan Xu, Xiaomei Huang, Zaiyi Liu, Ying Wang, Changhong Liang\
-**preprint, arXiv**, 2022\
-[[DOI]](https://arxiv.org/abs/2205.08390)
-[[Cite]](/publication/mo-2022-hovertrans/cite.bib)
+### [**Multi-scale pathology image texture signature is a prognostic factor for resectable lung adenocarcinoma: a multi-center, retrospective study**](./publication/wang-2022-jtm)
+Yumeng Wang<sup>\#</sup>, Xipeng Pan<sup>\#</sup>, Huan Lin<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Yajun An, Bingjiang Qiu, Zhengyun Feng, Xiaomei Huang, Zeyan Xu, Zhenwei Shi, Xin Chen, Bingbing Li, Lixu Yan, Cheng Lu, Zhenhui Li, Yanfen Cui, Zaiyi Liu, Zhenbing Liu\
+**Journal of Translational Medicine**, 2022\
+[[DOI]](https://doi.org/10.1186/s12967-022-03777-x)
+ 
+### [**Computerized tumor-infiltrating lymphocytes density score predicts survival of patients with resectable lung adenocarcinoma**](./publication/pan-2022-iscience)
+Xipeng Pan<sup>\#</sup>, Huan Lin<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Zhengyun Feng, Yumeng Wang, Jiatai Lin, Bingjiang Qiu, Liyu Yan, Bingbing Li, Zeyan Xu, Zhizhen Wang, Ke Zhao, Zhenbing Liu, Changhong Liang, Xin Chen, Zhenhui Li, Yanfen Cui, Cheng Lu, Zaiyi Liu\
+**iScience**, 2022\
+[[DOI]](https://doi.org/10.1016/j.isci.2022.105605)
+
+### [**RestainNet: A self-supervised digital re-stainer for stain normalization**](./publication/zhao-2022-restainnet)
+Bingchao Zhao, **Chu Han**<sup>\*</sup>, Xipeng Pan, Jiatai Lin, Zongjian Yi, Changhong Liang, Xin Chen, Bingbing Li, Weihao Qiu, Danyi Li, Li Liang, Ying Wang<sup>\*</sup>, Zaiyi Liu<sup>\*</sup>\
+**Computers & Electrical Engineering**, 2022.\
+[[DOI]](https://doi.org/10.1016/j.compeleceng.2022.108304)
+[[Cite]](/publication/zhao-2022-restainnet/cite.bib)
 
 ### [**SeqSeg: A sequential method to achieve nasopharyngeal carcinoma segmentation free from background dominance**]()
 Guihua Tao, Haojiang Li, Jiabin Huang, **Chu Han**, Jiazhou Chen, Guangying Ruan, Wenjie Huang, Yu Hu, Tingting Dan, Bin Zhang, Shengfeng He, Lizhi Liu, Hongmin Cai\
@@ -110,26 +135,12 @@ Haiyan Wang, Guoqiang Han, Bin Zhang, Yu Hu, Hong Peng, **Chu Han**, Hongmin Cai
 
 ### -------------------------------------------------------- 2020 --------------------------------------------------------
 
-### [**Learning a Consensus Affinity Matrix for Multi-view Clustering via Subspaces Merging on Grassmann Manifold**]()
-Wentao Rong, Enhong Zhuo, Hong Peng, Jiazhou Chen, Haiyan Wang, **Chu Han**, Hongmin Cai<sup>\*</sup>\
-**Information Sciences**, 2020.\
-[[DOI]](https://doi.org/10.1016/j.ins.2020.07.059)
-[[Cite]](./publication/Rong-2020-IS/cite.bib)
-
-### [**Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks**](./publication/xu-2020-action)
-Yangyang Xu<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Jing Qin, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Shengfeng He<sup>\*</sup>\
-**IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.\
-[[DOI]](https://doi.org/10.1109/TNNLS.2020.3015848)
-[[PDF]](/publication/xu-2020-action/xu-2020-action.pdf)
-[[Cite]](/publication/xu-2020-action/cite.bib)
-
-
-### [**TENet: Triple Excitation Network for Video Salient Object Detection**](./publication/su-2020-tenet)
-Sucheng Ren, **Chu Han**, Xin Yang, Guoqiang Han, Shengfeng He<sup>\*</sup>\
-**European Conference on Computer Vision (spotlight paper, top 5\%)**, 2020.\
-[[PDF]](/publication/su-2020-tenet/su-2020-tenet.pdf)
-[[Cite]](/publication/su-2020-tenet/cite.bib)
-[[Code]](https://github.com/OliverRensu/TENet-Triple-Excitation-Network-for-Video-Salient-Object-Detection)
+### [**Video Snapshot Single Image Motion Expansion via Invertible Motion Embedding**](./publication/zhu-2020-videosnapshot)
+Qianshu Zhu<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Guoqiang Han, Tien-Tsin Wong, Shengfeng He<sup>\*</sup>\
+**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2020\
+[[DOI]](https://doi.org/10.1109/TPAMI.2020.3001644)
+[[PDF]](/publication/zhu-2020-videosnapshot/zhu-2020-videosnapshot.pdf)
+[[Cite]](/publication/zhu-2020-videosnapshot/cite.bib)
 
 ### [**Triple U-net: Hematoxylin-aware Nuclei Segmentation with Progressive Dense Feature Aggregation**](./publication/zhao-2020-nuclei)
 Bingchao Zhao<sup>\#</sup>, Xin Chen<sup>\#</sup>, Zhi Li<sup>\#</sup>, Zhiwen Yu<sup>\#</sup>, Su Yao, Lixu Yan, Yuqian Wang, Zaiyi Liu<sup>\*</sup>, Changhong Liang<sup>\*</sup>, **Chu Han<sup>\*</sup>**\
@@ -138,24 +149,25 @@ Bingchao Zhao<sup>\#</sup>, Xin Chen<sup>\#</sup>, Zhi Li<sup>\#</sup>, Zhiwen Y
 [[PDF]](/publication/zhao-2020-nuclei/zhao-2020-nuclei.pdf)
 [[Cite]](/publication/zhao-2020-nuclei/cite.bib)
 
-### [**Coherence and Identity Learning for Arbitrary-length Face Video Generation**]()
-Shuquan Ye, **Chu Han**, Jiaying Lin, Guoqiang Han, Shengfeng He<sup>\*</sup>\
-Accepted by **International Conference on Pattern Recognition**, 2020.\
-[[PDF]](/publication/Ye-2020-facevideo/Ye-2020-facevideo.pdf)
+### [**Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks**](./publication/xu-2020-action)
+Yangyang Xu<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Jing Qin, Xuemiao Xu<sup>\*</sup>, Guoqiang Han, Shengfeng He<sup>\*</sup>\
+**IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.\
+[[DOI]](https://doi.org/10.1109/TNNLS.2020.3015848)
+[[PDF]](/publication/xu-2020-action/xu-2020-action.pdf)
+[[Cite]](/publication/xu-2020-action/cite.bib)
 
-### [**Video Snapshot Single Image Motion Expansion via Invertible Motion Embedding**](./publication/zhu-2020-videosnapshot)
-Qianshu Zhu<sup>\#</sup>, **Chu Han<sup>\#</sup>**, Guoqiang Han, Tien-Tsin Wong, Shengfeng He<sup>\*</sup>\
-**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2020\
-[[DOI]](https://doi.org/10.1109/TPAMI.2020.3001644)
-[[PDF]](/publication/zhu-2020-videosnapshot/zhu-2020-videosnapshot.pdf)
-[[Cite]](/publication/zhu-2020-videosnapshot/cite.bib)
+### [**TENet: Triple Excitation Network for Video Salient Object Detection**](./publication/su-2020-tenet)
+Sucheng Ren, **Chu Han**, Xin Yang, Guoqiang Han, Shengfeng He<sup>\*</sup>\
+**European Conference on Computer Vision (spotlight paper, top 5\%)**, 2020.\
+[[PDF]](/publication/su-2020-tenet/su-2020-tenet.pdf)
+[[Cite]](/publication/su-2020-tenet/cite.bib)
+[[Code]](https://github.com/OliverRensu/TENet-Triple-Excitation-Network-for-Video-Salient-Object-Detection)
 
-### [**DeepAO: Efficient Screen Space Ambient Occlusion Generation via Deep Network**](./publication/zhang-2020-deepao)
-Dongjiu Zhang, Chuhua Xian<sup>\*</sup>, Guoliang Luo, Yunhui Xiong, **Chu Han**\
-**IEEE Access**, 2020\
-[[DOI]](https://doi.org/10.1109/ACCESS.2020.2984771)
-[[PDF]](/publication/zhang-2020-deepao/zhang-2020-deepao.pdf)
-[[Cite]](/publication/zhang-2020-deepao/cite.bib)
+### [**Learning a Consensus Affinity Matrix for Multi-view Clustering via Subspaces Merging on Grassmann Manifold**]()
+Wentao Rong, Enhong Zhuo, Hong Peng, Jiazhou Chen, Haiyan Wang, **Chu Han**, Hongmin Cai<sup>\*</sup>\
+**Information Sciences**, 2020.\
+[[DOI]](https://doi.org/10.1016/j.ins.2020.07.059)
+[[Cite]](./publication/Rong-2020-IS/cite.bib)
 
 ### -------------------------------------------------------- 2019 --------------------------------------------------------
 

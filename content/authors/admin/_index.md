@@ -18,11 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep Learning, medical image analysis, computer vision, image processing and computer graphics.
+bio: My research interests include medical image analysis, computational pathology, deep learning, computer vision, image processing and computer graphics.
 
 interests:
-- Deep Learning
 - Medical Image Analysis
+- Computational Pathology
+- Deep Learning
 - Computer Vision
 - Image Processing
 - Computer Graphics
@@ -75,10 +76,11 @@ user_groups:
 - Visitors
 ---
 
-I am now a _postdoctoral fellow_ at the _Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences_, under the supervision of Prof. Zaiyi Liu and Prof. Changhong Liang.
+I am now an _Associate Professor_ as the _Guangdong Provincial Key Laboratory of Artificial Intelligence in Medical Image Analysis and Application, Guangdong Provincial People's Hospital_.
+I was the _postdoctoral fellow_ at the _Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences_, under the supervision of Prof. Zaiyi Liu and Prof. Changhong Liang.
 I received the _Ph.D. degree_ from [_the Chinese University of Hong Kong_](https://www.cse.cuhk.edu.hk), under the supervision of [_Prof. Tien-Tsin Wong_](http://www.cse.cuhk.edu.hk/~ttwong). 
 I received the _M.Sc. degree_ in computer science from [_South China University of Technology_](https://www.scut.edu.cn/en/), and the _B.Sc. degree_ from [_South China Agricultural University_](http://english.scau.edu.cn/). 
 
-My current research interests include medical image analysis, computer graphics, image processing, computer vision and deep learning.
+My research interests include medical image analysis, computational pathology, deep learning, computer vision, image processing and computer graphics.
 
 I like travelling and shooting landscape photographs. Here I share my [photos](#gallery) with you. Join me if you are also an adventurer.
