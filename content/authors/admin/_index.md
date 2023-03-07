@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Guangdong Provincial People's Hospital
+- name: Guangdong Provincial Key Laboratory of Artificial Intelligence in Medical Image Analysis and Application
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
